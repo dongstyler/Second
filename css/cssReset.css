@@ -1,0 +1,15 @@
+
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,pre,code,form,filedset,input,textarea,p{
+	margin:0;padding:0;
+}
+ul{
+	list-style:none;
+}
+a{
+	text-decoration:none;
+
+}
+img{
+	width:100%;
+	height:100%;
+}
